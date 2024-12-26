@@ -1,4 +1,5 @@
 ## stanCode101 Projects
+這個repository保存了我於stanCode101課程期間完成的程式設計專案。
 ## Project Source Codes:
 1. [The Breakout Game](https://github.com/Joseph989939/stancode-project/blob/main/The%20Breakout%20Game/breakout.py)
    - 以物件導向等等概念創造一個打箱子的遊戲，彈跳中的球不能掉落到底部，要以滑鼠控制下方黑色木板去接住掉下的黑球，每次有3次機會，球掉落3次則遊戲停止
