@@ -11,7 +11,7 @@ and broke bricks when ball touch the bricks)
 from campy.gui.events.timer import pause
 from breakoutgraphics import BreakoutGraphics
 
-FRAME_RATE = 10         # 100 frames per second
+FRAME_RATE = 10         # frames per second
 NUM_LIVES = 3			# Number of attempts
 
 
